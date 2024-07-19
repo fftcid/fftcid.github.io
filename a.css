@@ -1,0 +1,60 @@
+body {
+    font-size: 100%;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: moccasin;
+}
+
+.header {
+    text-align: center;
+    background-color:cornflowerblue;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: brown;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;;
+}
+
+.content {
+    margin: 20px;
+    color:beige;
+    background-color: #cfb17e;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.eic {
+    margin: 20px;
+    color:rgb(139, 130, 0);
+    background-color: #cfb17e;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.headquarters {
+    font-weight: bold;
+    color:brown
+}
+
+.thinking {
+    font-size: small;
+    font-weight: bold;
+    color:darkmagenta;
+}
+
+.time {
+    color:greenyellow;
+    font-size: small;
+}
+
+.finish {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color:darkslategrey
+}
+
+.images {
+    text-align: center;
+}
+
